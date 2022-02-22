@@ -1,0 +1,71 @@
+1: González-Andrade F, López-Pulles R. Ecuador: public health genomics. Public
+Health Genomics. 2010;13(3):171-80. doi: 10.1159/000249817. Epub 2009 Oct 16.
+PMID: 19844075.
+
+2: Zambrano-Mila MS, Agathos SN, Reichardt JKV. Human genetics and genomics
+research in Ecuador: historical survey, current state, and future directions.
+Hum Genomics. 2019 Dec 10;13(1):64. doi: 10.1186/s40246-019-0249-8. PMID:
+31822297; PMCID: PMC6902328.
+
+3: Chinn IK, Eckstein OS, Peckham-Gregory EC, Goldberg BR, Forbes LR, Nicholas
+SK, Mace EM, Vogel TP, Abhyankar HA, Diaz MI, Heslop HE, Krance RA, Martinez CA,
+Nguyen TC, Bashir DA, Goldman JR, Stray-Pedersen A, Pedroza LA, Poli MC, Aldave-
+Becerra JC, McGhee SA, Al-Herz W, Chamdin A, Coban-Akdemir ZH, Jhangiani SN,
+Muzny DM, Cao TN, Hong DN, Gibbs RA, Lupski JR, Orange JS, McClain KL, Allen CE.
+Genetic and mechanistic diversity in pediatric hemophagocytic
+lymphohistiocytosis. Blood. 2018 Jul 5;132(1):89-100. doi:
+10.1182/blood-2017-11-814244. Epub 2018 Apr 9. PMID: 29632024; PMCID:
+PMC6034641.
+
+4: Ortiz-Prado E, Simbaña-Rivera K, Gómez-Barreno L, Rubio-Neira M, Guaman LP,
+Kyriakidis NC, Muslin C, Jaramillo AMG, Barba-Ostria C, Cevallos-Robalino D,
+Sanches-SanMiguel H, Unigarro L, Zalakeviciute R, Gadian N, López-Cortés A.
+Clinical, molecular, and epidemiological characterization of the SARS-CoV-2
+virus and the Coronavirus Disease 2019 (COVID-19), a comprehensive literature
+review. Diagn Microbiol Infect Dis. 2020 Sep;98(1):115094. doi:
+10.1016/j.diagmicrobio.2020.115094. Epub 2020 May 30. PMID: 32623267; PMCID:
+PMC7260568.
+
+5: Stray-Pedersen A, Sorte HS, Samarakoon P, Gambin T, Chinn IK, Coban Akdemir
+ZH, Erichsen HC, Forbes LR, Gu S, Yuan B, Jhangiani SN, Muzny DM, Rødningen OK,
+Sheng Y, Nicholas SK, Noroski LM, Seeborg FO, Davis CM, Canter DL, Mace EM, Vece
+TJ, Allen CE, Abhyankar HA, Boone PM, Beck CR, Wiszniewski W, Fevang B, Aukrust
+P, Tjønnfjord GE, Gedde-Dahl T, Hjorth-Hansen H, Dybedal I, Nordøy I, Jørgensen
+SF, Abrahamsen TG, Øverland T, Bechensteen AG, Skogen V, Osnes LTN, Kulseth MA,
+Prescott TE, Rustad CF, Heimdal KR, Belmont JW, Rider NL, Chinen J, Cao TN,
+Smith EA, Caldirola MS, Bezrodnik L, Lugo Reyes SO, Espinosa Rosales FJ,
+Guerrero-Cursaru ND, Pedroza LA, Poli CM, Franco JL, Trujillo Vargas CM, Aldave
+Becerra JC, Wright N, Issekutz TB, Issekutz AC, Abbott J, Caldwell JW, Bayer DK,
+Chan AY, Aiuti A, Cancrini C, Holmberg E, West C, Burstedt M, Karaca E, Yesil G,
+Artac H, Bayram Y, Atik MM, Eldomery MK, Ehlayel MS, Jolles S, Flatø B, Bertuch
+AA, Hanson IC, Zhang VW, Wong LJ, Hu J, Walkiewicz M, Yang Y, Eng CM, Boerwinkle
+E, Gibbs RA, Shearer WT, Lyle R, Orange JS, Lupski JR. Primary immunodeficiency
+diseases: Genomic approaches delineate heterogeneous Mendelian disorders. J
+Allergy Clin Immunol. 2017 Jan;139(1):232-245. doi: 10.1016/j.jaci.2016.05.042.
+Epub 2016 Jul 16. Erratum in: J Allergy Clin Immunol. 2018 Feb;141(2):832. PMID:
+27577878; PMCID: PMC5222743.
+
+6: Montejo-Kovacevich G, Salazar PA, Smith SH, Gavilanes K, Bacquet CN, Chan YF,
+Jiggins CD, Meier JI, Nadeau NJ. Genomics of altitude-associated wing shape in
+two tropical butterflies. Mol Ecol. 2021 Dec;30(23):6387-6402. doi:
+10.1111/mec.16067. Epub 2021 Jul 28. PMID: 34233044.
+
+7: Vera-Arias CA, Castro LE, Gómez-Obando J, Sáenz FE. Diverse origin of
+Plasmodium falciparum in northwest Ecuador. Malar J. 2019 Jul 26;18(1):251. doi:
+10.1186/s12936-019-2891-y. PMID: 31349843; PMCID: PMC6660669.
+
+8: Flores-Espinoza R, Paz-Cruz E, Ruiz-Pozo VA, Lopez-Carrera M, Cabrera-Andrade
+A, Gusmão L, Burgos G. Investigating genetic diversity in admixed populations
+from Ecuador. Am J Phys Anthropol. 2021 Sep;176(1):109-119. doi:
+10.1002/ajpa.24341. Epub 2021 Jun 25. PMID: 34169504.
+
+9: Delgado Bermejo JV, Barba Capote CJ, Aguirre Riofrío EL, Cabezas Congo R,
+Cevallos Falquez OF, Rizzo Zamora LG, Vargas Burgos JC, Navas González FJ,
+Álvarez Franco LÁ, Biobovis C, Martínez Martínez A. Molecular inference in the
+colonization of cattle in Ecuador. Res Vet Sci. 2020 Oct;132:357-368. doi:
+10.1016/j.rvsc.2020.07.011. Epub 2020 Jul 23. PMID: 32739684.
+
+10: Schwabl P, Llewellyn MS, Landguth EL, Andersson B, Kitron U, Costales JA,
+Ocaña S, Grijalva MJ. Prediction and Prevention of Parasitic Diseases Using a
+Landscape Genomics Framework. Trends Parasitol. 2017 Apr;33(4):264-275. doi:
+10.1016/j.pt.2016.10.008. Epub 2016 Nov 16. PMID: 27863902; PMCID: PMC5376512.
