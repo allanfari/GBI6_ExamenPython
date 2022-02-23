@@ -3,19 +3,11 @@ from Bio import SeqIO
 ###############
 
 def download_pubmed(keyword): 
-    """Docstring download_pubmed"""
-    Entrez.email = "allan.farinango@est.ikiam.edu.ec"
-    handle = Entrez.efetch(db="nucleotide", id="MW196737.1", rettype="gb", retmode="text")
-    record=SeqIO.read(handle,'gb')
-    handle.close()
-    return 
+    """descargar la data de NCBI por gb formato detallado de Ecuador Genomics"""
+    Entrez.email = 'allan.farinango@est.ikiam.edu.ec'
+    handle = Entrez.esearch(db = 'pubmed', term= keyword + "[title/abstract]", usehistory = 'y')
+    record = Entrez.read(handle)
+    id_list = record['IdList']
+    print('El número de artículos es:')
+    print(record['Count'])
     
-
-def mining_pubs(tipo):
-    """Docstring mining_pubs"""
-    if tipo == "DP": 
-    if tipo == "AU":
-    if tipo == "AD":
-        
-    
-    return 
