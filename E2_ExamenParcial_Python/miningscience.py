@@ -1,6 +1,15 @@
 
 from Bio import Entrez
+import re
+from Bio import SeqIO
+import re
+import csv 
+import re
+import pandas as pd 
+from collections import Counter
 ###############
+
+#################SE DEBEN LLAMAR A TODAS LAS FUNCIONES QUE SE VAYAN A UTILIZAR EN JUPYTER NOTEBOOK, AL RATO DE LLAMAR EL ARCHIVO .PY CON LAS FUNCIONES SE CARGAN TODAS LAS BIBLIOTECAS AL MISMO TIEMPO QUE LAS FUNCIONES DE LO CONTRARIO NO SE CARGAN Y NO CORREN LAS FUNCIONES POR NO IDENTIFICAR LOS CONMANDOS DE LAS BIBLIOTECAS A LOS QUE SE LLAMAN
 
 def download_pubmed(keyword): 
     """cargar y buscar la data de NCBI de cualquier caracter al que se le defina como keyword"""
